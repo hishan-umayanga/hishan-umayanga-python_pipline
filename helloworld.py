@@ -5,4 +5,4 @@ def bad_word():
 
 if __name__ == "__main__":
     print(hello_world())
-    print(bad_word)
+    print(bad_word())
